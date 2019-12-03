@@ -1,0 +1,18 @@
+.post{
+    margin:20px;
+}
+.posts{
+    display:flex;
+    flex-direction:column;
+    border:1px solid black;
+}
+.AntProx{
+    margin:10px;
+    text-decoration: none;
+    color:black;
+}
+.AntProx div{
+    margin:10px;
+    text-decoration: none;
+    color:black;
+}
